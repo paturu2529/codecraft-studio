@@ -1,1 +1,106 @@
 
+# CodeCraft Studio 
+
+##  Project Overview
+
+CodeCraft Studio is a responsive multi-page website developed using **Bootstrap 5** as part of an internship task.  
+
+The objective of this project was to explore and implement official Bootstrap components to build clean, responsive, and reusable UI layouts.
+
+---
+
+##  Task Requirements Covered
+
+✔ Use Bootstrap 5 via CDN  
+✔ Create 3 pages (Home, About, Contact)  
+✔ Use official Bootstrap components  
+✔ Maintain responsive design  
+✔ Deploy using GitHub Pages  
+
+---
+
+##  Project Structure
+
+
+
+---
+
+##  Pages Description
+
+### 1 Home Page
+- Responsive Navbar
+- Hero Section
+- Services Section using Cards
+- Footer
+
+### 2 About Page
+- Project description
+- List Group component
+- Responsive Grid layout
+
+### 3 Contact Page
+- Working contact form
+- Bootstrap form components
+- Responsive layout
+
+---
+
+##  Technologies Used
+
+- HTML5
+- Bootstrap 5 (CDN)
+- Bootstrap Grid System
+- Bootstrap Utility Classes
+
+---
+
+##  Responsiveness
+
+This website is fully responsive and works properly on:
+
+- Desktop
+- Tablet
+- Mobile devices
+
+Bootstrap's grid system and utility classes were used to ensure proper responsiveness.
+
+---
+
+##  Deployment
+
+This project is deployed using **GitHub Pages**.
+
+Live Website:  
+(Add your live GitHub Pages link here)
+
+ GitHub Repository:  
+(Add your repository link here)
+
+---
+
+##  Learning Outcomes
+
+Through this project, I learned:
+
+- How to use Bootstrap 5 official documentation
+- How to build reusable UI components
+- How to structure multi-page websites
+- How to deploy a website using GitHub Pages
+- How to maintain consistent spacing and layout
+
+---
+
+##  Time Taken
+
+Approximately 2 hours were spent designing, building, and deploying the project.
+
+---
+
+##  Acknowledgment
+
+Bootstrap official documentation was used as a reference for components and layout structure.
+
+
+
+Github Repository Link:  https://github.com/paturu2529/codecraft-studio/tree/main
+Live Link: https://paturu2529.github.io/codecraft-studio/
